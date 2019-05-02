@@ -1,7 +1,7 @@
 {
   "name": "cpg-bk",
   "version": "1.0.0",
-  "description": "Portfolio Backend",
+  "description": "",
   "main": "App.js",
   "scripts": {
     "typescript": "tsc -w",
